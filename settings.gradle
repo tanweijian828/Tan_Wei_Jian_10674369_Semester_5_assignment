@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "A202SGI_Assignment_Tan_Wei_Jian_10674369"
